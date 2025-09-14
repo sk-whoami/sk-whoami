@@ -2,7 +2,7 @@
 
 Cybersecurity undergrad | Learning to code & secure systems
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00FF7F&center=true&vCenter=true&repeat=true&width=700&lines=Silvia+Kusi+%7C+Cybersecurity;Learning+Python+%26+Cloud+Security;Breaking+%26+Fixing+Labs+(legally);Building+small+tools+—+one+commit+at+a+time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00FF7F&center=true&vCenter=true&repeat=true&width=700&lines=Silvia%20Kusi%20%7C%20Cybersecurity;Learning%20Python%20%26%20Cloud%20Security;Breaking%20%26%20Fixing%20Labs%20%28legally%29;Building%20small%20tools%20-%20one%20commit%20at%20a%20time" />
 </p>
 
 - 🌱 Currently learning Python & Codedex challenges<br/>
@@ -13,11 +13,11 @@ Cybersecurity undergrad | Learning to code & secure systems
 
 
 # 💻 Tech Stack:
-![](https://github-readme-stats.vercel.app/api?username=sk-whoami&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-stats.vercel.app/api?username=sk-whoami&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=sk-whoami&theme=github_dark_dimmed&hide_border=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=sk-whoami&theme=github_dark_dimmed&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-whoami&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-whoami&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
  
 
 ## 🏆 GitHub Trophies
