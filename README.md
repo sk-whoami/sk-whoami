@@ -1,4 +1,7 @@
 # Hi, I’m Silvia 👋
+<p align="center">
+  <img src="assets/matrix.gif" alt="matrix rain banner" width="850">
+</p>
 
 Cybersecurity undergrad | Learning to code & secure systems  
 
