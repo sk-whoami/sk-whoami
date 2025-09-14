@@ -1,6 +1,9 @@
 # Hi, I’m Silvia 👋
 
-Cybersecurity undergrad | Learning to code & secure systems  
+Cybersecurity undergrad | Learning to code & secure systems
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00FF7F&center=true&vCenter=true&repeat=true&width=700&lines=Silvia+Kusi+%7C+Cybersecurity;Learning+Python+%26+Cloud+Security;Breaking+%26+Fixing+Labs+(legally);Building+small+tools+—+one+commit+at+a+time" />
+</p>
 
 - 🌱 Currently learning Python & Codedex challenges<br/>
 - 🛡️ Interested in cybersecurity, networking & system security<br/>
