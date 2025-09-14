@@ -4,7 +4,8 @@ Cybersecurity undergrad | Learning to code & secure systems
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00FF7F&center=true&vCenter=true&repeat=true&width=700&lines=S%20K%20%7C%20Cybersecurity;Learning%20Python%20%26%20Cloud%20Security;Breaking%20%26%20Fixing%20Labs%20%28legally%29;Building%20small%20tools%20-%20one%20commit%20at%20a%20time" />
 <p align="center">
-  <img src="https://i.imgur.com/V5g3YQk.gif" alt="Matrix rain animation" width="850">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Gif-main12.gif![image](https://github.com/user-attachments/assets/2c534826-760a-4266-9b66-98d8ad92b60a)
+" alt="Matrix rain animation" width="850">
 </p>
 
 # Hi, I’m Silvia 👋
