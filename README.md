@@ -3,12 +3,8 @@
 Cybersecurity undergrad | Learning to code & secure systems
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00FF7F&center=true&vCenter=true&repeat=true&width=700&lines=S%20K%20%7C%20Cybersecurity;Learning%20Python%20%26%20Cloud%20Security;Breaking%20%26%20Fixing%20Labs%20%28legally%29;Building%20small%20tools%20-%20one%20commit%20at%20a%20time" />
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyYXdyZzFpbXBodGc0MGlpcmw5OXdvOGpsanp5NXZsa3o5dW94N2FtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif![image](https://github.com/user-attachments/assets/b30600a7-572a-4de3-b973-5f7b66e598be)
-"width="600" alt="cyber lock">
-</p>
-
+  
+![Cyber lock](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMWgyaDhxNG5lc2s2aGN4Nmk4a2gxbHIwNnpraGZidzJ6cmUxZGFocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif)
 # Hi, I’m Silvia 👋
 Cybersecurity undergrad | Learning to code & secure systems
 
