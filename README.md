@@ -3,13 +3,12 @@
 Cybersecurity undergrad | Learning to code & secure systems
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00FF7F&center=true&vCenter=true&repeat=true&width=700&lines=S%20K%20%7C%20Cybersecurity;Learning%20Python%20%26%20Cloud%20Security;Breaking%20%26%20Fixing%20Labs%20%28legally%29;Building%20small%20tools%20-%20one%20commit%20at%20a%20time" />
-</p>
 <p align="center">
-  <img src="assets/matrix.gif" alt="Matrix rain" width="850">
+  <img src="https://i.imgur.com/V5g3YQk.gif" alt="Matrix rain animation" width="850">
 </p>
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" alt="Matrix rain" width="850">
-</p>
+
+# Hi, I’m Silvia 👋
+Cybersecurity undergrad | Learning to code & secure systems
 
 - 🌱 Currently learning Python & Codedex challenges<br/>
 - 🛡️ Interested in cybersecurity, networking & system security<br/>
