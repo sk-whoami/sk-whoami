@@ -24,9 +24,9 @@ Cybersecurity undergrad | Learning to code & secure systems
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sk-whoami &limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sk-whoami&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sk-whoami &icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sk-whoami&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
