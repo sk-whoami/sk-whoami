@@ -15,13 +15,7 @@ Cybersecurity undergrad | Learning to code & secure systems
 ![](https://nirzak-streak-stats.vercel.app/?user=sk-whoami&theme=github_dark_dimmed&hide_border=false)  
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-whoami&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
-# 📊 GitHub Stats:
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sk-whoami&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)  
-
-![](https://nirzak-streak-stats.vercel.app/?user=sk-whoami&theme=github_dark_dimmed&hide_border=false)  
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-whoami&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+ 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sk-whoami&theme=radical&no-frame=false&no-bg=false&margin-w=4)
